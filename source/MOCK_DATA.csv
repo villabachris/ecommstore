@@ -1,0 +1,1001 @@
+id,name,price,description
+1,Saturn,9953.15,Adaptive dedicated function
+2,Ford,8460.79,Open-architected regional interface
+3,Subaru,8400.13,Multi-tiered full-range architecture
+4,Hyundai,9944.63,Team-oriented user-facing encryption
+5,Lexus,3480.93,Vision-oriented mobile architecture
+6,Dodge,1868.91,Down-sized background paradigm
+7,GMC,2144.63,Adaptive high-level toolset
+8,Volvo,7791.28,Integrated bifurcated encoding
+9,Chevrolet,7773.63,Sharable zero administration superstructure
+10,Bentley,4633.34,Pre-emptive needs-based secured line
+11,Pontiac,8653.02,Function-based bifurcated utilisation
+12,Studebaker,8319.31,Cross-platform zero defect array
+13,Subaru,4985.86,Sharable homogeneous framework
+14,GMC,792.06,Open-architected bi-directional website
+15,Oldsmobile,5949.16,Intuitive 5th generation process improvement
+16,GMC,9819.66,Programmable full-range moderator
+17,Chrysler,5412.24,Profound next generation algorithm
+18,Volkswagen,6970.12,Open-source empowering leverage
+19,Cadillac,2443.07,Realigned reciprocal help-desk
+20,Hyundai,6809.05,Virtual motivating open system
+21,Volkswagen,2568.11,Organic coherent project
+22,Mazda,8445.78,Intuitive dynamic customer loyalty
+23,Pontiac,5234.74,Virtual impactful process improvement
+24,Pontiac,3682.02,Grass-roots systematic concept
+25,Ford,7225.19,Proactive encompassing portal
+26,Aston Martin,5407.69,Synergistic 6th generation superstructure
+27,Volvo,7170.44,Reactive encompassing policy
+28,Jaguar,5453.57,Versatile scalable architecture
+29,Volkswagen,3365.8,Inverse dynamic migration
+30,Jaguar,6809.51,Fully-configurable neutral architecture
+31,Jeep,7622.07,Focused well-modulated focus group
+32,Oldsmobile,297.23,Right-sized zero defect solution
+33,Toyota,6893.6,Total clear-thinking protocol
+34,Mercedes-Benz,787.25,Expanded homogeneous complexity
+35,Acura,1144.96,Expanded leading edge leverage
+36,Kia,1600.7,Function-based context-sensitive toolset
+37,Porsche,1876.41,Upgradable dedicated internet solution
+38,Chevrolet,5774.77,Secured fault-tolerant framework
+39,Chevrolet,2158.77,Cross-platform methodical hardware
+40,Volkswagen,3828.3,Managed asynchronous capacity
+41,Oldsmobile,4689.87,Reactive regional moderator
+42,Toyota,3541.53,Balanced secondary open system
+43,Isuzu,852.94,Multi-channelled multi-state project
+44,Ford,708.94,Switchable next generation encoding
+45,Tesla,2216.74,Organic holistic functionalities
+46,Mazda,9226.27,Secured maximized implementation
+47,Dodge,1029.19,Progressive upward-trending orchestration
+48,Chevrolet,6833.79,Object-based didactic synergy
+49,Mazda,976.31,Down-sized full-range access
+50,Lexus,9625.94,Self-enabling client-driven emulation
+51,Pontiac,171.7,Optional attitude-oriented internet solution
+52,Oldsmobile,5826.64,Advanced context-sensitive budgetary management
+53,Audi,5393.14,Re-contextualized directional software
+54,Volvo,9118.04,Intuitive dynamic functionalities
+55,Kia,5517.75,Cloned web-enabled policy
+56,Toyota,705.51,Object-based interactive knowledge user
+57,Land Rover,8454.26,Right-sized multimedia conglomeration
+58,Infiniti,8469.3,Customizable demand-driven hub
+59,Toyota,5162.4,Robust coherent contingency
+60,Ford,5701.11,Persistent grid-enabled orchestration
+61,Saab,3923.52,Decentralized actuating product
+62,Toyota,7468.6,Secured zero defect algorithm
+63,Chevrolet,9581.47,Team-oriented grid-enabled open architecture
+64,Lamborghini,2940.99,Multi-layered 6th generation encoding
+65,Subaru,5914.22,Robust real-time capacity
+66,Lamborghini,2883.39,Optimized 4th generation time-frame
+67,Infiniti,4554.87,Automated hybrid moderator
+68,Mazda,1280.09,Re-engineered mission-critical project
+69,BMW,2236.15,Public-key context-sensitive approach
+70,Suzuki,9649.44,Multi-lateral systemic middleware
+71,Dodge,6610.89,Quality-focused interactive portal
+72,Volkswagen,9508.76,User-centric disintermediate knowledge user
+73,Pontiac,4568.5,Switchable neutral service-desk
+74,Suzuki,7476.78,Synergized bandwidth-monitored strategy
+75,Ford,5382.27,Business-focused attitude-oriented adapter
+76,Chevrolet,2770.37,Monitored composite algorithm
+77,Audi,7017.45,Expanded regional superstructure
+78,Ford,4597.13,Persevering global neural-net
+79,Lincoln,810.12,Advanced leading edge open architecture
+80,Cadillac,2261.57,Visionary analyzing infrastructure
+81,BMW,7946.74,Fundamental dynamic core
+82,Ford,2041.33,Inverse logistical infrastructure
+83,Toyota,166.12,Fully-configurable cohesive open system
+84,Toyota,5773.95,Secured zero defect Graphical User Interface
+85,Audi,7343.15,Enterprise-wide motivating infrastructure
+86,Plymouth,5967.37,Exclusive multi-state knowledge base
+87,Land Rover,4535.17,Customer-focused exuding orchestration
+88,Oldsmobile,6728.18,Open-architected zero administration software
+89,Acura,808.41,Networked fresh-thinking access
+90,Toyota,5193.67,Stand-alone holistic neural-net
+91,Porsche,254.2,Customizable context-sensitive data-warehouse
+92,Subaru,8949.06,Face to face fault-tolerant monitoring
+93,Dodge,826.81,Exclusive zero administration installation
+94,Dodge,4103.94,Automated dynamic success
+95,Dodge,7705.88,Reactive modular throughput
+96,Chevrolet,3478.11,User-friendly next generation middleware
+97,Mitsubishi,2377.97,Reduced regional utilisation
+98,GMC,5285.13,Inverse eco-centric help-desk
+99,Dodge,3920.46,De-engineered dynamic knowledge base
+100,Ford,2272.25,Distributed homogeneous infrastructure
+101,BMW,6173.44,Enhanced mission-critical complexity
+102,Porsche,6624.3,Reverse-engineered regional support
+103,Dodge,8774.98,Visionary zero tolerance complexity
+104,Toyota,9262.56,Fully-configurable 24 hour adapter
+105,Chevrolet,4998.2,Enterprise-wide uniform infrastructure
+106,Toyota,6091.56,Polarised grid-enabled info-mediaries
+107,Ford,8553.9,Front-line discrete initiative
+108,Mercury,6349.72,Networked bi-directional parallelism
+109,Volvo,1938.93,Expanded analyzing open system
+110,Mercury,8843.83,Universal transitional process improvement
+111,GMC,6098.11,Face to face actuating circuit
+112,Infiniti,3112.3,Persistent solution-oriented encoding
+113,Isuzu,4906.84,Sharable mission-critical application
+114,Chrysler,5736.57,Multi-lateral logistical workforce
+115,Honda,644.67,Sharable full-range structure
+116,Volkswagen,1693.2,Triple-buffered systematic hub
+117,Dodge,488.63,Switchable homogeneous process improvement
+118,Mitsubishi,5439.29,Ameliorated 24/7 algorithm
+119,Jeep,580.33,Total zero administration synergy
+120,Plymouth,1718.74,Triple-buffered heuristic product
+121,Dodge,8130.69,User-centric actuating methodology
+122,Audi,9785.04,Function-based systemic methodology
+123,Chevrolet,5677.55,Face to face intermediate application
+124,Ford,9908.55,Multi-layered maximized product
+125,Ford,8477.24,Sharable stable application
+126,Audi,5638.77,De-engineered value-added model
+127,Mercury,2280.65,Future-proofed heuristic secured line
+128,Lincoln,3701.04,Focused background core
+129,Ford,4764.46,Self-enabling optimal software
+130,Toyota,4488.22,De-engineered asynchronous ability
+131,Chevrolet,9385.98,Integrated client-server standardization
+132,Ford,2999.88,Realigned systematic product
+133,Pontiac,2256.74,Virtual real-time adapter
+134,Infiniti,9297.96,Synchronised 6th generation analyzer
+135,Dodge,604.38,Ameliorated asymmetric extranet
+136,Suzuki,2950.85,Profit-focused 3rd generation throughput
+137,Bentley,8303.59,Vision-oriented attitude-oriented parallelism
+138,Toyota,8574.01,Managed zero administration help-desk
+139,Volkswagen,8012.84,Exclusive responsive system engine
+140,Honda,7693.62,Managed attitude-oriented attitude
+141,Chevrolet,5776.47,Seamless tertiary encoding
+142,Saab,5986.35,Streamlined multi-tasking toolset
+143,Audi,9002.88,Total content-based focus group
+144,Oldsmobile,5728.85,Secured optimizing access
+145,Chrysler,753.4,Devolved local time-frame
+146,Ford,8108.66,Function-based discrete frame
+147,Mazda,486.06,Front-line client-server complexity
+148,Land Rover,8403.69,Expanded client-driven local area network
+149,Chevrolet,6052.13,Customer-focused bottom-line conglomeration
+150,Volkswagen,6199.39,Progressive intermediate definition
+151,MINI,4402.3,Decentralized next generation projection
+152,Pontiac,3014.79,Devolved transitional portal
+153,Scion,2973.63,Profit-focused global intranet
+154,Audi,405.58,Reactive regional artificial intelligence
+155,Mercedes-Benz,107.19,Ergonomic modular capability
+156,Porsche,4581.24,Exclusive heuristic projection
+157,Scion,6691.09,Automated bi-directional intranet
+158,Ford,4960.34,Streamlined needs-based framework
+159,Oldsmobile,1412.33,Customizable multimedia implementation
+160,Mitsubishi,9394.89,Robust uniform alliance
+161,Volkswagen,3399.13,Secured intermediate analyzer
+162,Mazda,4514.38,Stand-alone disintermediate customer loyalty
+163,Dodge,6427.69,Progressive analyzing circuit
+164,Ford,4970.8,Multi-lateral zero administration forecast
+165,Toyota,294.01,Public-key radical projection
+166,Mercedes-Benz,2373.5,Open-architected multi-tasking artificial intelligence
+167,Lexus,8718.99,Reverse-engineered exuding definition
+168,Ford,7601.67,Intuitive interactive solution
+169,Mercedes-Benz,5085.22,Ameliorated background paradigm
+170,Bentley,5180.19,Progressive bottom-line customer loyalty
+171,Mazda,3591.74,Inverse national alliance
+172,Volkswagen,2960.76,Reduced needs-based migration
+173,Chrysler,7711.28,Managed foreground leverage
+174,Mercedes-Benz,5321.78,Polarised didactic synergy
+175,Mitsubishi,8645.67,Organic encompassing circuit
+176,Infiniti,8538.95,Networked multimedia support
+177,BMW,8887.96,Monitored grid-enabled utilisation
+178,Ferrari,967.53,Multi-channelled modular database
+179,Ford,8449.37,Self-enabling methodical encryption
+180,Subaru,2197.31,Virtual clear-thinking success
+181,Saab,1924.7,Digitized upward-trending productivity
+182,Mercedes-Benz,6498.36,Programmable mobile success
+183,Chevrolet,6453.62,De-engineered asynchronous middleware
+184,Chevrolet,8870.92,Enhanced contextually-based functionalities
+185,Mazda,1849.17,Realigned static database
+186,Mazda,1322.25,Virtual non-volatile conglomeration
+187,Honda,847.67,Realigned reciprocal collaboration
+188,Mitsubishi,5577.16,Networked holistic concept
+189,Volkswagen,252.82,Virtual attitude-oriented solution
+190,BMW,4004.66,Distributed client-server workforce
+191,Maserati,9843.01,Customer-focused transitional workforce
+192,Ford,7042.59,User-centric discrete firmware
+193,Pontiac,1572.7,Versatile optimizing portal
+194,Chevrolet,2245.85,Inverse encompassing success
+195,Toyota,9164.8,Reverse-engineered clear-thinking customer loyalty
+196,Mercedes-Benz,3704.06,User-friendly fresh-thinking info-mediaries
+197,Subaru,3795.32,Inverse modular orchestration
+198,Mercedes-Benz,1678.88,Cross-platform user-facing core
+199,Ford,9860.99,Phased coherent support
+200,Saab,3232.37,Multi-tiered dynamic infrastructure
+201,Jeep,3566.22,Mandatory encompassing groupware
+202,Hyundai,8806.0,Optional zero tolerance standardization
+203,Saturn,2556.86,User-centric next generation core
+204,Lincoln,3678.12,Business-focused intangible firmware
+205,Chevrolet,4473.07,Open-source responsive system engine
+206,Cadillac,1127.46,Stand-alone fresh-thinking budgetary management
+207,Isuzu,8404.61,Right-sized asynchronous concept
+208,Kia,4193.89,Multi-layered intangible standardization
+209,Scion,8979.66,Upgradable optimizing data-warehouse
+210,Audi,9888.56,Open-source object-oriented system engine
+211,Chrysler,8141.5,Triple-buffered disintermediate capability
+212,BMW,307.99,Triple-buffered contextually-based matrices
+213,Hummer,2712.99,Object-based multi-state complexity
+214,Infiniti,2453.37,Sharable 24/7 solution
+215,Volvo,5195.82,Digitized scalable core
+216,Toyota,1030.02,Balanced bottom-line service-desk
+217,Honda,8174.03,Monitored interactive algorithm
+218,Dodge,6591.27,Future-proofed system-worthy methodology
+219,Ford,2564.82,Decentralized dedicated matrix
+220,Mitsubishi,2558.66,Exclusive maximized secured line
+221,Chevrolet,3024.72,Cross-group heuristic hub
+222,Suzuki,9799.92,Multi-tiered clear-thinking workforce
+223,Oldsmobile,5467.83,Optimized executive standardization
+224,Oldsmobile,8056.32,Customizable bifurcated architecture
+225,Toyota,118.37,Secured clear-thinking throughput
+226,Audi,8786.61,Re-engineered methodical architecture
+227,Porsche,2214.3,Open-source 4th generation policy
+228,Lincoln,6641.7,Multi-tiered empowering hardware
+229,Dodge,9477.97,Cloned human-resource project
+230,Lincoln,507.61,Virtual didactic utilisation
+231,Mitsubishi,9681.69,Fully-configurable motivating database
+232,Chevrolet,386.35,Quality-focused 6th generation adapter
+233,Volkswagen,2137.79,Streamlined real-time productivity
+234,Ford,5224.1,Re-contextualized static info-mediaries
+235,Volkswagen,3387.3,Future-proofed modular groupware
+236,Infiniti,9887.48,Object-based foreground orchestration
+237,Chevrolet,2873.96,De-engineered secondary budgetary management
+238,GMC,9769.12,Intuitive demand-driven standardization
+239,Mercedes-Benz,8091.15,Grass-roots intangible implementation
+240,GMC,6152.34,Virtual zero administration encryption
+241,BMW,2198.84,Front-line demand-driven challenge
+242,Mercedes-Benz,7027.79,Implemented interactive capacity
+243,Lexus,243.27,Vision-oriented intangible matrix
+244,Dodge,7441.31,Open-source intangible leverage
+245,Land Rover,715.08,Programmable intangible challenge
+246,Mercury,4692.32,Reactive clear-thinking extranet
+247,Acura,7873.05,Advanced asynchronous open architecture
+248,Pontiac,4788.45,Profound neutral project
+249,Volkswagen,9419.61,Visionary reciprocal utilisation
+250,Ford,7074.8,Total mobile archive
+251,Honda,3765.41,User-friendly even-keeled moratorium
+252,Chevrolet,4776.57,Progressive zero administration artificial intelligence
+253,Hummer,1887.01,Team-oriented 6th generation algorithm
+254,BMW,2321.96,Down-sized multi-state firmware
+255,Audi,5046.44,Proactive didactic database
+256,Land Rover,304.59,Realigned encompassing Graphic Interface
+257,Suzuki,9527.32,Polarised client-driven open architecture
+258,Chevrolet,7962.93,Triple-buffered bifurcated parallelism
+259,Jaguar,7712.52,Phased object-oriented neural-net
+260,Saturn,9381.38,Proactive motivating Graphic Interface
+261,Mercedes-Benz,5435.24,Mandatory user-facing local area network
+262,Mazda,7132.91,Diverse fresh-thinking encoding
+263,Dodge,3657.16,Assimilated client-driven analyzer
+264,Lexus,6275.51,Versatile fresh-thinking structure
+265,Isuzu,1362.99,Reactive systemic encoding
+266,Acura,9320.41,Cross-group disintermediate frame
+267,Chevrolet,4421.99,Organic content-based synergy
+268,Mitsubishi,1342.68,Customizable client-server capacity
+269,Audi,4934.41,Total reciprocal access
+270,Mazda,4358.8,Organized background forecast
+271,Kia,1797.46,Progressive national process improvement
+272,GMC,7818.02,Multi-lateral object-oriented software
+273,Lotus,569.19,Mandatory reciprocal extranet
+274,Lincoln,5305.06,Horizontal tertiary process improvement
+275,Audi,6126.3,Implemented even-keeled capability
+276,Mitsubishi,2227.75,Multi-layered homogeneous adapter
+277,Audi,9682.26,Profound tertiary utilisation
+278,GMC,807.84,Self-enabling multi-state data-warehouse
+279,Mercedes-Benz,4241.74,Innovative mobile task-force
+280,Ford,1566.01,Decentralized bifurcated archive
+281,Nissan,6140.86,Managed reciprocal capacity
+282,Lincoln,808.01,Devolved web-enabled open architecture
+283,Mazda,38.16,Balanced global process improvement
+284,Chevrolet,1543.94,Extended grid-enabled pricing structure
+285,Acura,1.15,Optimized national matrices
+286,Buick,6691.77,Stand-alone holistic moderator
+287,Hyundai,3937.42,Enhanced multi-tasking framework
+288,BMW,8965.5,Virtual systematic firmware
+289,BMW,7117.99,Polarised bi-directional adapter
+290,Pontiac,3698.14,Focused object-oriented middleware
+291,Volvo,7924.08,Reverse-engineered demand-driven definition
+292,Nissan,5430.79,Public-key tangible frame
+293,Toyota,8100.26,Intuitive tertiary product
+294,Land Rover,2943.68,Innovative background data-warehouse
+295,Honda,4512.5,Function-based demand-driven process improvement
+296,Jaguar,4473.87,Adaptive optimizing function
+297,Acura,8444.35,Secured eco-centric success
+298,Buick,9542.89,Progressive contextually-based artificial intelligence
+299,Chevrolet,8809.67,Versatile eco-centric parallelism
+300,Suzuki,8421.44,Digitized analyzing projection
+301,Toyota,7914.62,Monitored optimal website
+302,Infiniti,1072.64,Exclusive real-time interface
+303,Pontiac,3590.87,Focused bi-directional local area network
+304,Chevrolet,5601.84,User-friendly encompassing migration
+305,Hyundai,350.35,Distributed dynamic Graphic Interface
+306,Mercedes-Benz,4160.11,Programmable exuding groupware
+307,Lincoln,7910.43,Progressive clear-thinking circuit
+308,Lotus,1505.92,Intuitive logistical toolset
+309,Mazda,9726.28,Multi-channelled stable approach
+310,Geo,8572.93,Networked bi-directional customer loyalty
+311,Chevrolet,2678.68,Programmable even-keeled model
+312,Mercury,6897.68,Profit-focused bifurcated alliance
+313,Chevrolet,8330.9,Enhanced dedicated installation
+314,Toyota,8308.85,Secured executive challenge
+315,Chevrolet,1708.58,Cross-group local model
+316,Cadillac,133.48,Team-oriented 24 hour Graphic Interface
+317,Nissan,1325.23,Distributed foreground synergy
+318,GMC,4369.23,Networked asynchronous software
+319,Dodge,9047.78,Vision-oriented next generation project
+320,Honda,1035.55,Programmable stable matrices
+321,Nissan,2106.28,Profound optimizing solution
+322,GMC,7746.33,Upgradable homogeneous infrastructure
+323,Mitsubishi,4646.52,Decentralized asynchronous synergy
+324,Toyota,798.33,Devolved optimizing throughput
+325,Mercedes-Benz,26.91,Cross-group zero administration customer loyalty
+326,Pontiac,1925.42,Decentralized 6th generation budgetary management
+327,Hyundai,2236.08,Organized national framework
+328,Volkswagen,9197.45,Managed foreground strategy
+329,Chevrolet,3630.7,Extended tertiary open system
+330,Buick,2769.18,Distributed zero defect collaboration
+331,Ford,97.77,Balanced incremental firmware
+332,Land Rover,234.86,Object-based 5th generation firmware
+333,Maserati,1448.77,Focused clear-thinking concept
+334,Isuzu,7286.77,Proactive object-oriented neural-net
+335,Chevrolet,1814.89,Managed heuristic productivity
+336,Infiniti,9712.26,Virtual system-worthy budgetary management
+337,Jaguar,2241.73,Customizable zero defect algorithm
+338,Toyota,249.09,Pre-emptive executive definition
+339,Bentley,193.6,Fundamental contextually-based hub
+340,Lexus,8717.05,Self-enabling 24/7 encryption
+341,Ford,3842.97,Multi-lateral asynchronous throughput
+342,Infiniti,5434.95,Business-focused motivating initiative
+343,Toyota,1489.89,Versatile analyzing open architecture
+344,Isuzu,5774.68,Ameliorated local policy
+345,Mitsubishi,6106.14,Multi-tiered context-sensitive data-warehouse
+346,Ford,6626.7,Enhanced systemic open system
+347,GMC,8150.19,User-friendly systematic toolset
+348,Kia,3680.57,Optimized 24 hour model
+349,Dodge,1868.9,Stand-alone background parallelism
+350,Chrysler,2155.42,De-engineered attitude-oriented archive
+351,Subaru,9748.76,Profound composite knowledge base
+352,Infiniti,176.61,Cross-group client-server time-frame
+353,Chevrolet,7442.81,Re-contextualized maximized moratorium
+354,Pontiac,6913.57,Synchronised empowering encoding
+355,Pontiac,8099.89,Pre-emptive dynamic algorithm
+356,Buick,7617.39,Assimilated composite adapter
+357,Ford,4749.42,Digitized empowering Graphic Interface
+358,Pontiac,7544.39,Cloned intangible open system
+359,Acura,7882.88,Vision-oriented directional product
+360,Mercedes-Benz,2297.77,Visionary intangible ability
+361,Isuzu,4699.5,Business-focused secondary hierarchy
+362,Pontiac,7831.64,Versatile static hardware
+363,Audi,4004.57,Universal regional middleware
+364,Lexus,2486.97,Object-based needs-based collaboration
+365,Subaru,2134.76,Enhanced intermediate installation
+366,Ford,7704.89,Secured bifurcated hub
+367,Subaru,9589.58,Expanded logistical task-force
+368,Infiniti,2879.17,Virtual client-server knowledge base
+369,Plymouth,8715.82,Function-based logistical workforce
+370,BMW,9069.63,Right-sized real-time collaboration
+371,Ford,9470.22,Team-oriented client-driven core
+372,Dodge,5457.68,Ergonomic hybrid hub
+373,Jaguar,8646.28,Pre-emptive context-sensitive task-force
+374,Toyota,2483.19,Profound contextually-based software
+375,Chrysler,2723.52,Public-key real-time orchestration
+376,Ford,714.65,Multi-channelled holistic ability
+377,Dodge,9422.53,Innovative zero tolerance approach
+378,Buick,2934.53,Phased user-facing interface
+379,Mercury,7059.51,Total mobile focus group
+380,Ford,6744.32,Multi-layered needs-based process improvement
+381,Mercury,6157.44,Stand-alone 5th generation migration
+382,Mercury,6947.73,Synergized bottom-line benchmark
+383,Suzuki,9688.06,Multi-layered bi-directional initiative
+384,Oldsmobile,7210.87,Future-proofed dynamic utilisation
+385,BMW,8494.57,Diverse upward-trending model
+386,Pontiac,1578.14,Sharable interactive superstructure
+387,Cadillac,9654.83,Realigned system-worthy middleware
+388,GMC,7120.9,Secured discrete product
+389,Chevrolet,3927.34,Synchronised executive access
+390,GMC,2834.87,Progressive bandwidth-monitored core
+391,Mercury,6482.77,Upgradable fresh-thinking migration
+392,Chevrolet,341.16,Visionary tertiary definition
+393,Dodge,3152.16,Object-based interactive success
+394,Nissan,6689.29,Object-based 24/7 focus group
+395,Dodge,1776.06,Integrated scalable budgetary management
+396,Porsche,4015.77,Front-line mobile capability
+397,Mazda,7753.96,Organized motivating superstructure
+398,Volvo,6586.62,Intuitive bandwidth-monitored encoding
+399,Lexus,56.07,Synchronised non-volatile artificial intelligence
+400,Dodge,9568.05,Profound cohesive infrastructure
+401,Chevrolet,2502.06,Intuitive scalable circuit
+402,Ford,7646.82,Profit-focused intangible Graphic Interface
+403,BMW,2481.9,Enhanced multi-state solution
+404,Saturn,374.35,Innovative bi-directional open architecture
+405,Acura,8138.07,Distributed fault-tolerant archive
+406,Pontiac,8869.85,Customizable modular matrix
+407,Ford,7355.48,Team-oriented full-range definition
+408,Mazda,7769.16,Reduced attitude-oriented synergy
+409,Mazda,7680.77,Advanced hybrid leverage
+410,Ford,1161.18,Customizable bifurcated utilisation
+411,Volkswagen,8824.4,Configurable fault-tolerant synergy
+412,Pontiac,4761.87,Distributed scalable model
+413,GMC,3469.02,Switchable even-keeled archive
+414,Dodge,7946.66,Reactive leading edge open system
+415,Scion,5995.8,Streamlined cohesive strategy
+416,Lincoln,8375.92,Profound multi-state local area network
+417,Lotus,2709.86,Profound intermediate benchmark
+418,Lincoln,692.59,Persistent client-driven neural-net
+419,Chevrolet,1168.0,Future-proofed reciprocal firmware
+420,Mitsubishi,1911.56,Centralized web-enabled infrastructure
+421,Saturn,6372.63,Synergized zero administration secured line
+422,Mazda,135.06,Persistent grid-enabled infrastructure
+423,GMC,499.82,Cross-platform object-oriented installation
+424,Hyundai,8978.22,Adaptive multimedia orchestration
+425,Audi,5576.54,De-engineered non-volatile standardization
+426,Toyota,4410.45,Front-line global process improvement
+427,Kia,6177.97,Face to face bi-directional forecast
+428,Mercedes-Benz,2610.88,Business-focused high-level architecture
+429,Toyota,8919.93,Visionary mobile instruction set
+430,Subaru,7394.9,Synchronised incremental core
+431,Chevrolet,858.65,Enterprise-wide well-modulated help-desk
+432,Mazda,3956.13,Persistent attitude-oriented core
+433,Audi,2716.14,Optimized dedicated customer loyalty
+434,Mitsubishi,945.11,Organized explicit emulation
+435,Nissan,8736.78,Optimized coherent workforce
+436,GMC,3386.39,Sharable reciprocal structure
+437,Toyota,2535.22,Universal multi-state core
+438,Ford,5027.4,De-engineered object-oriented secured line
+439,Bentley,2369.49,Total systemic access
+440,Honda,1455.1,Universal high-level Graphical User Interface
+441,MINI,9738.73,Enterprise-wide optimizing focus group
+442,Toyota,5901.37,Multi-layered mission-critical contingency
+443,Mazda,6930.47,Fundamental fresh-thinking emulation
+444,Dodge,1099.78,Organic systemic knowledge user
+445,Subaru,985.32,Versatile 24/7 model
+446,Porsche,3842.28,Right-sized impactful emulation
+447,Mazda,9074.61,Synchronised fault-tolerant analyzer
+448,Volkswagen,7721.06,Team-oriented neutral installation
+449,Audi,164.37,Profit-focused actuating leverage
+450,Audi,1014.65,Realigned holistic toolset
+451,Honda,8878.57,Future-proofed coherent initiative
+452,Jaguar,7242.88,Profound impactful frame
+453,Nissan,9868.1,Customizable didactic moderator
+454,Dodge,1024.24,Profit-focused secondary focus group
+455,Bentley,6697.44,Re-contextualized bandwidth-monitored core
+456,Cadillac,414.45,De-engineered zero tolerance groupware
+457,Saab,1812.65,Organic multi-state knowledge user
+458,BMW,6700.33,Customer-focused grid-enabled function
+459,Buick,1513.81,Progressive logistical productivity
+460,Mercury,2770.34,Inverse secondary utilisation
+461,Volkswagen,3821.44,Multi-lateral optimizing instruction set
+462,Pontiac,5374.65,Cloned bottom-line projection
+463,GMC,9055.78,Customer-focused optimizing orchestration
+464,Mitsubishi,2341.51,Programmable needs-based parallelism
+465,Acura,6464.46,Multi-layered system-worthy workforce
+466,Audi,8930.79,Switchable intangible migration
+467,Chevrolet,6724.19,Adaptive reciprocal database
+468,Ford,2222.16,Centralized bottom-line product
+469,Mitsubishi,6074.13,Polarised encompassing database
+470,Hyundai,3316.68,Operative secondary budgetary management
+471,Mazda,2884.61,Horizontal impactful standardization
+472,Mercury,8539.12,Progressive uniform strategy
+473,Mitsubishi,2001.19,Diverse directional initiative
+474,Volvo,3438.82,Upgradable intangible knowledge user
+475,Audi,678.56,Progressive intermediate monitoring
+476,Land Rover,7590.56,Vision-oriented full-range firmware
+477,Ford,1442.3,Reverse-engineered cohesive contingency
+478,Toyota,5627.69,Organic dedicated Graphic Interface
+479,Ford,1855.83,Seamless motivating capacity
+480,Chevrolet,9084.16,Enhanced solution-oriented support
+481,Pontiac,8405.38,Pre-emptive value-added alliance
+482,Buick,9306.1,Reverse-engineered exuding neural-net
+483,Suzuki,9650.6,Triple-buffered human-resource capacity
+484,Ford,1575.38,Proactive interactive complexity
+485,Land Rover,3279.29,Cross-group leading edge product
+486,Chevrolet,5704.8,Horizontal user-facing analyzer
+487,Pontiac,3591.32,Team-oriented reciprocal project
+488,Ford,4613.22,Up-sized scalable infrastructure
+489,Saturn,2802.01,Down-sized intermediate synergy
+490,MINI,2861.44,User-friendly explicit parallelism
+491,Chevrolet,4217.98,Public-key modular product
+492,Dodge,5742.36,Ergonomic discrete benchmark
+493,Lotus,4085.73,Balanced local initiative
+494,BMW,3668.14,Intuitive bandwidth-monitored architecture
+495,Land Rover,395.16,Intuitive bandwidth-monitored service-desk
+496,Toyota,1971.77,Mandatory contextually-based forecast
+497,GMC,7951.6,Proactive multimedia intranet
+498,Honda,5407.2,Reverse-engineered actuating open system
+499,Dodge,9935.91,Triple-buffered mission-critical leverage
+500,Lexus,7064.19,Grass-roots fresh-thinking focus group
+501,Jeep,2903.6,Streamlined discrete challenge
+502,Hyundai,7355.32,Switchable zero defect attitude
+503,Chevrolet,8257.87,Fully-configurable clear-thinking algorithm
+504,Mitsubishi,5897.46,De-engineered system-worthy moderator
+505,Audi,9763.4,Down-sized static info-mediaries
+506,Chevrolet,1322.75,Managed regional customer loyalty
+507,Toyota,4895.51,Enhanced mission-critical attitude
+508,Hyundai,6873.25,Configurable value-added installation
+509,BMW,8200.28,Implemented radical emulation
+510,Chrysler,5838.38,Organized didactic solution
+511,Mitsubishi,8841.96,Exclusive impactful firmware
+512,Jeep,3570.36,Total high-level leverage
+513,Honda,1922.48,Devolved fault-tolerant ability
+514,Lincoln,6360.52,Persevering encompassing support
+515,Smart,9451.09,Persistent secondary time-frame
+516,Suzuki,8097.37,Devolved global portal
+517,GMC,6611.99,Cloned bifurcated Graphical User Interface
+518,Ford,6195.39,Fundamental transitional access
+519,Mazda,9647.29,Horizontal well-modulated task-force
+520,Volkswagen,1078.26,Innovative real-time time-frame
+521,Audi,746.29,Total foreground approach
+522,Honda,6390.73,Down-sized local local area network
+523,MINI,9872.35,Organic national algorithm
+524,Audi,496.96,Synergized multi-state pricing structure
+525,Chevrolet,436.91,Automated client-driven ability
+526,Cadillac,2445.32,Secured hybrid info-mediaries
+527,Mazda,478.36,Streamlined incremental initiative
+528,Chevrolet,5256.36,Synergistic foreground architecture
+529,Nissan,6344.88,Reverse-engineered local task-force
+530,Toyota,3173.32,Persistent grid-enabled toolset
+531,GMC,5585.36,Integrated explicit neural-net
+532,Aston Martin,1567.03,Compatible human-resource neural-net
+533,Pontiac,7989.52,Customizable dynamic migration
+534,BMW,2664.02,Exclusive full-range encoding
+535,Volkswagen,2970.51,Adaptive methodical projection
+536,Lexus,1483.33,Centralized optimal utilisation
+537,Ford,289.92,Business-focused scalable middleware
+538,Buick,5828.79,Grass-roots uniform solution
+539,Toyota,2063.16,Up-sized even-keeled conglomeration
+540,Chrysler,5749.77,Polarised analyzing approach
+541,Lexus,9741.38,Phased explicit function
+542,GMC,8686.64,Business-focused mission-critical project
+543,Honda,9299.32,Multi-channelled logistical open architecture
+544,Acura,7946.41,Multi-lateral tertiary model
+545,Mercedes-Benz,6765.11,Adaptive dedicated contingency
+546,Mercedes-Benz,7261.09,Pre-emptive content-based capability
+547,Lexus,3233.7,Inverse dedicated collaboration
+548,Lotus,8980.27,Enhanced local capability
+549,Dodge,4553.16,Streamlined homogeneous ability
+550,Bentley,3435.27,Front-line clear-thinking paradigm
+551,Porsche,8854.99,Down-sized content-based concept
+552,Buick,9769.6,Open-source zero administration circuit
+553,Ford,6124.59,Decentralized zero defect open architecture
+554,Kia,1901.98,Fundamental systematic hardware
+555,Isuzu,3644.4,Re-engineered 24 hour budgetary management
+556,Mitsubishi,4392.65,Re-engineered homogeneous algorithm
+557,Dodge,2572.52,Networked multi-state software
+558,Ford,9372.7,Diverse foreground adapter
+559,Acura,3152.24,Balanced bi-directional encryption
+560,GMC,6444.9,Synchronised foreground support
+561,Buick,1298.0,Ameliorated bottom-line portal
+562,Ford,9143.84,Implemented context-sensitive utilisation
+563,Volvo,511.5,Enterprise-wide well-modulated superstructure
+564,Lexus,5939.76,Diverse multi-tasking collaboration
+565,Volvo,961.55,Public-key coherent application
+566,Jeep,5158.73,Reverse-engineered holistic access
+567,Acura,9824.36,Secured full-range encoding
+568,Chevrolet,3378.5,Extended bandwidth-monitored interface
+569,Pontiac,3480.33,Decentralized maximized paradigm
+570,Volkswagen,5307.06,Streamlined tangible secured line
+571,Mazda,6911.01,User-centric homogeneous hub
+572,Nissan,1287.42,Right-sized client-server software
+573,Chrysler,4651.96,Upgradable web-enabled success
+574,Toyota,5149.23,Progressive local pricing structure
+575,Pontiac,5346.71,Fully-configurable multi-state open system
+576,GMC,3394.23,Function-based cohesive toolset
+577,Chevrolet,3373.52,Future-proofed grid-enabled hierarchy
+578,Mazda,1122.6,Decentralized dedicated adapter
+579,Ford,8803.46,Ergonomic regional pricing structure
+580,Infiniti,1546.56,Business-focused asynchronous service-desk
+581,Ford,6560.97,Horizontal reciprocal encryption
+582,Saab,6461.2,De-engineered interactive application
+583,Volvo,3127.76,User-friendly client-server emulation
+584,Acura,3839.14,Innovative grid-enabled productivity
+585,Mercedes-Benz,2444.66,User-centric didactic emulation
+586,Nissan,4138.99,Realigned transitional methodology
+587,Dodge,7918.93,Innovative full-range structure
+588,Porsche,298.63,Secured heuristic middleware
+589,Subaru,7959.92,Customizable human-resource portal
+590,Suzuki,5897.52,Face to face bifurcated toolset
+591,Mercedes-Benz,9383.22,Robust coherent ability
+592,Honda,6234.63,Ergonomic object-oriented task-force
+593,Oldsmobile,7703.57,Profound systemic local area network
+594,Oldsmobile,1308.4,Horizontal multi-tasking middleware
+595,Ford,3019.69,Optional high-level conglomeration
+596,Land Rover,6578.65,Upgradable exuding definition
+597,Lincoln,2344.66,De-engineered logistical task-force
+598,Chevrolet,7170.64,Polarised demand-driven collaboration
+599,Plymouth,9419.16,Streamlined holistic knowledge base
+600,Ford,2966.2,De-engineered neutral structure
+601,Bentley,3291.99,Balanced multimedia hardware
+602,Mercury,6040.61,Right-sized 5th generation service-desk
+603,Chevrolet,9954.69,User-friendly modular moderator
+604,Chevrolet,8913.58,Digitized impactful time-frame
+605,Audi,7508.3,Synergized didactic hub
+606,Lexus,8463.08,Open-architected 3rd generation concept
+607,Mitsubishi,3205.21,Exclusive disintermediate secured line
+608,Ford,8848.14,Networked disintermediate artificial intelligence
+609,Audi,1870.65,Implemented radical neural-net
+610,Toyota,9626.24,Ergonomic demand-driven model
+611,Mitsubishi,8796.0,Implemented even-keeled neural-net
+612,Volkswagen,1911.82,Persistent static Graphic Interface
+613,Audi,4104.02,Grass-roots 24 hour open system
+614,Mercury,4472.89,Centralized encompassing artificial intelligence
+615,Toyota,7182.79,Stand-alone cohesive knowledge base
+616,GMC,861.03,Sharable logistical matrices
+617,Dodge,22.48,Synergized bifurcated throughput
+618,Toyota,974.27,User-friendly foreground focus group
+619,Suzuki,4680.7,Reduced bifurcated monitoring
+620,Toyota,8275.09,Programmable 24/7 algorithm
+621,Dodge,6076.82,Cross-platform zero tolerance encryption
+622,Acura,5881.12,Right-sized radical projection
+623,Toyota,686.41,Progressive non-volatile projection
+624,Ford,6349.67,Optimized upward-trending matrices
+625,Mazda,2401.12,Fundamental discrete infrastructure
+626,Honda,3797.43,Universal high-level collaboration
+627,Dodge,4558.92,Profound user-facing open architecture
+628,Ford,4446.36,Fully-configurable object-oriented definition
+629,Buick,7341.74,Digitized mission-critical pricing structure
+630,Ford,9773.59,Progressive systemic capability
+631,Mitsubishi,7640.0,Open-architected web-enabled moratorium
+632,Plymouth,4774.87,Polarised multimedia migration
+633,Buick,7709.89,Re-contextualized methodical productivity
+634,Mitsubishi,6547.24,Optional 24 hour conglomeration
+635,Pontiac,7788.61,Virtual zero defect Graphical User Interface
+636,Chevrolet,4805.76,Organized national synergy
+637,Dodge,1222.25,Switchable cohesive budgetary management
+638,Ford,8481.15,Multi-tiered value-added toolset
+639,Mazda,1648.98,Optimized national middleware
+640,Pontiac,107.06,Advanced client-server info-mediaries
+641,Cadillac,202.47,Seamless secondary installation
+642,Honda,4127.5,Synergistic tangible forecast
+643,Saturn,6628.47,Balanced local capability
+644,Chevrolet,5338.11,Re-engineered eco-centric challenge
+645,Mercedes-Benz,6048.97,Face to face client-server task-force
+646,Ford,8141.34,Realigned 3rd generation framework
+647,Volvo,8562.06,Triple-buffered motivating portal
+648,Cadillac,3514.22,Multi-channelled fresh-thinking superstructure
+649,Chrysler,7762.0,Balanced upward-trending productivity
+650,Buick,2474.67,Multi-channelled 3rd generation concept
+651,Honda,11.92,Switchable real-time intranet
+652,GMC,4280.8,Exclusive clear-thinking monitoring
+653,Lexus,8077.19,Monitored 6th generation workforce
+654,Volkswagen,3853.17,Operative even-keeled system engine
+655,Toyota,5009.99,Digitized mobile challenge
+656,Hyundai,6464.06,Realigned discrete projection
+657,Nissan,4826.03,Cloned 24 hour circuit
+658,Toyota,2773.01,Cross-platform scalable attitude
+659,Mercury,2737.46,Switchable full-range protocol
+660,Ford,474.44,Stand-alone optimizing emulation
+661,Mitsubishi,5821.16,Polarised object-oriented paradigm
+662,Corbin,5257.64,Cross-group dedicated conglomeration
+663,Bentley,8133.71,Fully-configurable encompassing middleware
+664,Volkswagen,5387.5,Virtual modular frame
+665,GMC,8438.3,Persistent actuating monitoring
+666,Suzuki,7209.2,Fundamental holistic standardization
+667,Jaguar,3883.42,Versatile heuristic circuit
+668,Suzuki,714.37,Focused clear-thinking core
+669,Pontiac,102.02,Organic human-resource toolset
+670,Ford,5088.78,Cross-platform mobile migration
+671,Cadillac,3047.78,Business-focused needs-based help-desk
+672,Lotus,9592.6,Organic contextually-based toolset
+673,Dodge,8395.93,Cross-platform analyzing strategy
+674,Lamborghini,7499.35,Monitored grid-enabled budgetary management
+675,Toyota,1277.85,Mandatory bi-directional info-mediaries
+676,Cadillac,5903.37,User-friendly disintermediate synergy
+677,Hyundai,2555.29,Cross-group impactful function
+678,Maserati,1235.54,User-friendly methodical alliance
+679,Mercury,7728.52,Operative system-worthy product
+680,Mazda,1697.55,Progressive explicit alliance
+681,Subaru,6182.29,Persevering mobile parallelism
+682,Mazda,8393.67,Managed non-volatile solution
+683,Chrysler,5687.55,Devolved 5th generation help-desk
+684,Chevrolet,2291.45,Down-sized coherent adapter
+685,Dodge,2248.49,Multi-layered systemic contingency
+686,Volvo,9908.59,Advanced uniform migration
+687,Aston Martin,4190.69,Extended responsive architecture
+688,Mercedes-Benz,6805.04,Ergonomic incremental encoding
+689,Lotus,3211.99,Right-sized stable circuit
+690,Nissan,6024.92,Managed real-time installation
+691,Mitsubishi,4963.12,Enhanced stable knowledge user
+692,Saab,1326.87,Re-contextualized explicit protocol
+693,Suzuki,3286.89,Compatible asynchronous open system
+694,Mazda,4025.9,Customer-focused 24/7 extranet
+695,Ford,6151.87,Re-engineered coherent protocol
+696,Mercedes-Benz,8207.89,Seamless solution-oriented algorithm
+697,Mazda,5028.7,Enhanced zero defect neural-net
+698,Cadillac,4949.56,Quality-focused systemic standardization
+699,Chevrolet,8548.9,Open-architected even-keeled throughput
+700,GMC,746.96,Exclusive scalable architecture
+701,Ford,6847.51,Inverse interactive adapter
+702,Buick,3319.68,Profound well-modulated internet solution
+703,Volvo,8654.49,Customizable needs-based frame
+704,Toyota,1833.9,Digitized fresh-thinking hierarchy
+705,Chevrolet,3452.62,Organized logistical utilisation
+706,Aston Martin,532.03,Multi-channelled client-driven algorithm
+707,Lincoln,6420.58,Switchable fault-tolerant challenge
+708,Land Rover,2199.54,Progressive asynchronous challenge
+709,Nissan,4347.97,Quality-focused regional frame
+710,Mercedes-Benz,591.19,Implemented non-volatile Graphical User Interface
+711,Pontiac,631.53,Enterprise-wide encompassing Graphic Interface
+712,Chevrolet,2002.56,Intuitive content-based throughput
+713,Infiniti,1175.84,Diverse multi-state system engine
+714,Pontiac,5716.1,Up-sized clear-thinking productivity
+715,Dodge,5367.35,Fundamental asynchronous middleware
+716,Chevrolet,1984.59,Ergonomic tertiary complexity
+717,Pontiac,5054.81,Reactive incremental internet solution
+718,Mercury,8752.61,Mandatory tertiary array
+719,Ford,755.36,Multi-layered 24 hour algorithm
+720,Lincoln,9105.63,Virtual demand-driven alliance
+721,Nissan,7966.63,Enhanced tangible toolset
+722,Cadillac,3132.14,Adaptive secondary process improvement
+723,Chevrolet,5537.71,Quality-focused 24 hour product
+724,Honda,538.3,Networked context-sensitive structure
+725,Audi,792.67,Monitored hybrid matrices
+726,Lexus,3425.28,Operative 24/7 help-desk
+727,Suzuki,4510.01,De-engineered bottom-line approach
+728,Ford,1050.6,Reduced zero defect process improvement
+729,Honda,3739.98,User-friendly tangible structure
+730,Chevrolet,5221.12,Multi-channelled methodical artificial intelligence
+731,Chrysler,391.89,Pre-emptive attitude-oriented software
+732,Porsche,2412.39,Front-line homogeneous database
+733,Buick,6960.01,Robust encompassing budgetary management
+734,Lexus,4262.8,Multi-lateral value-added toolset
+735,GMC,6272.84,Reverse-engineered 5th generation instruction set
+736,Maybach,414.86,Organized neutral adapter
+737,Mazda,5326.53,Stand-alone discrete toolset
+738,Toyota,3795.43,Decentralized well-modulated complexity
+739,BMW,2443.2,Ergonomic eco-centric capability
+740,Lincoln,3555.45,Distributed zero administration flexibility
+741,Ford,471.93,Sharable needs-based hub
+742,Mitsubishi,8118.39,User-centric cohesive project
+743,Porsche,2907.73,Decentralized motivating forecast
+744,Chevrolet,6886.26,Quality-focused local emulation
+745,Isuzu,6129.57,Implemented regional toolset
+746,BMW,6471.23,Digitized scalable methodology
+747,Mazda,1661.52,Grass-roots stable paradigm
+748,BMW,6542.24,Team-oriented intangible intranet
+749,Acura,7820.94,Down-sized coherent array
+750,Chevrolet,7098.43,Mandatory bottom-line moratorium
+751,Cadillac,3145.28,Enterprise-wide methodical task-force
+752,Volvo,4454.13,Expanded intangible model
+753,Cadillac,8874.29,Realigned client-driven help-desk
+754,GMC,1476.03,Proactive high-level portal
+755,Audi,5081.07,Reverse-engineered solution-oriented leverage
+756,Mercedes-Benz,4531.36,Optimized dynamic budgetary management
+757,Hummer,7904.19,Universal mission-critical archive
+758,Audi,9872.63,Customer-focused maximized intranet
+759,Jeep,2357.36,Balanced didactic toolset
+760,GMC,2478.0,Phased local support
+761,Honda,4850.52,Upgradable multimedia open system
+762,Mercury,5299.74,Versatile non-volatile hardware
+763,Jaguar,9134.83,Expanded interactive help-desk
+764,Nissan,3036.0,Object-based mobile solution
+765,Ford,8849.7,Inverse 24 hour approach
+766,Mercedes-Benz,9908.6,Enhanced foreground customer loyalty
+767,Chrysler,3581.45,Configurable composite support
+768,Pontiac,1385.59,Switchable motivating contingency
+769,Toyota,5445.57,Sharable value-added core
+770,Mazda,891.52,Focused human-resource emulation
+771,Chevrolet,446.72,Cross-group systemic application
+772,Isuzu,4503.83,Object-based real-time Graphic Interface
+773,Chrysler,8220.16,Innovative 3rd generation support
+774,MINI,8574.21,Secured global open architecture
+775,Buick,5020.22,Monitored full-range pricing structure
+776,Subaru,9330.85,Managed context-sensitive matrix
+777,Buick,9413.04,Synchronised asynchronous leverage
+778,GMC,5413.44,Centralized dedicated process improvement
+779,GMC,5743.6,Synergized dynamic solution
+780,GMC,7790.93,Phased upward-trending encoding
+781,Mitsubishi,7276.95,Cross-platform cohesive analyzer
+782,Hyundai,1862.34,Up-sized 4th generation hub
+783,BMW,4566.72,Business-focused explicit local area network
+784,Chevrolet,8628.38,Distributed methodical workforce
+785,Bugatti,7098.63,Inverse secondary open architecture
+786,Mercedes-Benz,1251.59,Reverse-engineered didactic model
+787,Jeep,5693.51,Centralized multi-tasking synergy
+788,Ford,7954.93,De-engineered bandwidth-monitored attitude
+789,Buick,5654.93,Digitized neutral project
+790,Oldsmobile,7723.3,Total bifurcated complexity
+791,Jeep,9278.2,Automated encompassing hardware
+792,Kia,1615.24,Enterprise-wide encompassing help-desk
+793,GMC,65.26,Vision-oriented eco-centric utilisation
+794,Mercedes-Benz,1670.86,Synchronised foreground policy
+795,Isuzu,7352.24,Adaptive 4th generation time-frame
+796,Toyota,359.98,Horizontal holistic service-desk
+797,Nissan,9438.27,Profound upward-trending process improvement
+798,Toyota,157.51,Function-based logistical encryption
+799,Oldsmobile,8272.17,Pre-emptive systemic synergy
+800,Toyota,121.86,Function-based analyzing functionalities
+801,Nissan,1253.51,Multi-layered 24/7 open system
+802,Land Rover,9302.18,Decentralized next generation open system
+803,GMC,9894.65,Customer-focused client-server function
+804,Ford,2818.31,De-engineered transitional matrix
+805,Toyota,289.3,Reduced optimal architecture
+806,Pontiac,2761.75,User-centric next generation model
+807,Volkswagen,3323.52,Implemented contextually-based time-frame
+808,Mitsubishi,6475.17,Exclusive content-based portal
+809,Pontiac,1764.41,Team-oriented web-enabled secured line
+810,Subaru,5300.97,Cross-platform even-keeled project
+811,Volkswagen,9077.25,Ameliorated asynchronous framework
+812,Land Rover,7959.83,Cloned 5th generation conglomeration
+813,Hyundai,4230.25,Pre-emptive object-oriented matrices
+814,Dodge,6824.88,Enhanced asynchronous secured line
+815,Bentley,16.83,Expanded reciprocal architecture
+816,GMC,667.8,Advanced holistic benchmark
+817,Lincoln,4289.9,Ergonomic transitional strategy
+818,Ford,7140.14,Robust full-range structure
+819,Acura,9852.25,Re-engineered heuristic knowledge user
+820,Pontiac,8218.09,Public-key fresh-thinking algorithm
+821,Cadillac,1424.3,Down-sized 3rd generation groupware
+822,GMC,7195.55,Adaptive bandwidth-monitored capacity
+823,Toyota,1787.87,Open-architected user-facing firmware
+824,Infiniti,9099.39,Robust content-based encoding
+825,Dodge,2914.96,Public-key reciprocal toolset
+826,Chevrolet,1696.87,Phased fault-tolerant extranet
+827,Mitsubishi,3619.39,Realigned optimal hardware
+828,Chevrolet,176.49,Triple-buffered global product
+829,Ford,7458.54,Multi-tiered 3rd generation approach
+830,Chevrolet,5345.08,Ameliorated 24 hour model
+831,Buick,9787.05,Front-line holistic archive
+832,Tesla,4221.38,Seamless coherent application
+833,Chevrolet,5949.13,Public-key modular superstructure
+834,Nissan,2366.28,Open-source exuding initiative
+835,Mercedes-Benz,1519.04,Extended secondary focus group
+836,Lincoln,1009.86,Multi-channelled intermediate emulation
+837,Ford,2197.77,Right-sized exuding internet solution
+838,BMW,1883.21,Robust client-driven groupware
+839,Toyota,7187.05,Down-sized systematic installation
+840,Lexus,5468.81,Profound value-added pricing structure
+841,GMC,6175.08,Operative logistical website
+842,Dodge,5817.22,Cloned 5th generation hierarchy
+843,Isuzu,936.63,Quality-focused fault-tolerant alliance
+844,Hummer,7935.22,Secured 5th generation Graphical User Interface
+845,Mitsubishi,1143.04,Horizontal stable policy
+846,Mercedes-Benz,5967.38,Fully-configurable needs-based array
+847,Suzuki,3817.91,Profound well-modulated complexity
+848,Saturn,7293.36,Right-sized system-worthy neural-net
+849,Infiniti,59.56,Vision-oriented bottom-line solution
+850,Porsche,8340.17,Reactive eco-centric website
+851,Kia,3715.52,Diverse directional time-frame
+852,GMC,3937.26,Focused client-driven array
+853,Oldsmobile,5577.48,Progressive tertiary application
+854,Scion,6123.64,Intuitive mobile protocol
+855,Lexus,5521.14,Team-oriented asynchronous parallelism
+856,Ford,6707.28,Optional transitional service-desk
+857,Isuzu,4852.65,Decentralized intermediate time-frame
+858,Acura,8948.88,Centralized client-driven application
+859,Saab,5346.11,Up-sized content-based process improvement
+860,Pontiac,415.28,Advanced analyzing project
+861,Honda,4180.17,Quality-focused leading edge forecast
+862,Nissan,5248.24,Pre-emptive web-enabled adapter
+863,Mercury,9060.53,Innovative 4th generation service-desk
+864,Toyota,8059.61,Organic 24 hour website
+865,Mercedes-Benz,5251.78,Decentralized explicit infrastructure
+866,Cadillac,2466.16,Enterprise-wide next generation firmware
+867,Hyundai,5816.42,Compatible mission-critical open architecture
+868,Dodge,2455.05,Synergized multi-tasking model
+869,Mercedes-Benz,9635.81,Visionary global contingency
+870,Subaru,1880.26,Multi-tiered client-server help-desk
+871,Dodge,7020.29,Operative 3rd generation process improvement
+872,Nissan,5797.59,Distributed transitional firmware
+873,Kia,3132.03,Automated homogeneous approach
+874,Jeep,8227.0,Intuitive intangible encryption
+875,Ford,6459.94,Reverse-engineered scalable core
+876,Volvo,9597.83,Devolved high-level analyzer
+877,Ford,4793.61,Versatile asymmetric circuit
+878,BMW,6019.88,Secured empowering utilisation
+879,Mazda,7230.91,Organized solution-oriented parallelism
+880,Toyota,1287.86,Virtual executive matrix
+881,Ford,3642.61,Grass-roots impactful challenge
+882,Subaru,7649.0,Managed 6th generation challenge
+883,Oldsmobile,8230.53,Expanded methodical hierarchy
+884,Toyota,9940.55,Distributed content-based flexibility
+885,Pontiac,3765.73,Ergonomic motivating artificial intelligence
+886,Hyundai,7930.5,Expanded global challenge
+887,Chevrolet,3906.45,Sharable maximized attitude
+888,Lincoln,3260.82,Managed 3rd generation middleware
+889,Ford,3761.7,Synergistic incremental secured line
+890,Pontiac,4407.91,Optimized tangible methodology
+891,Nissan,5012.41,Progressive systemic function
+892,Chevrolet,7297.6,Seamless web-enabled Graphic Interface
+893,Infiniti,8735.53,Ergonomic 6th generation initiative
+894,Audi,1109.28,Multi-channelled secondary task-force
+895,Cadillac,9455.87,Implemented 24/7 access
+896,Jaguar,3305.89,Optimized coherent challenge
+897,Mercedes-Benz,6047.73,Cross-group uniform productivity
+898,Mercury,6217.47,Total incremental adapter
+899,GMC,4205.33,Optional mobile neural-net
+900,Scion,7369.44,Innovative modular pricing structure
+901,Jaguar,6131.77,Enterprise-wide transitional focus group
+902,Chrysler,2808.08,Universal incremental groupware
+903,Buick,7463.07,Centralized 24/7 budgetary management
+904,Suzuki,4403.06,Total radical initiative
+905,Nissan,6644.45,Cross-group cohesive capability
+906,Maybach,7543.22,Pre-emptive web-enabled moratorium
+907,Lexus,7689.72,Horizontal directional data-warehouse
+908,Hyundai,3624.14,Realigned user-facing forecast
+909,Ford,3942.47,Operative next generation framework
+910,Pontiac,6835.3,Ergonomic encompassing pricing structure
+911,Mercedes-Benz,7437.98,Streamlined 3rd generation secured line
+912,Mitsubishi,3247.57,User-centric asynchronous workforce
+913,Mazda,4418.97,Inverse user-facing moratorium
+914,Cadillac,1539.24,Synergistic holistic support
+915,Lotus,5477.21,Virtual modular Graphic Interface
+916,Lexus,776.78,Total local synergy
+917,Audi,5805.91,Progressive solution-oriented algorithm
+918,Chevrolet,6029.23,Extended eco-centric process improvement
+919,Alfa Romeo,5245.21,Automated systematic implementation
+920,Cadillac,1548.54,Pre-emptive fresh-thinking moratorium
+921,Pontiac,1040.93,Devolved 5th generation instruction set
+922,Infiniti,6242.23,Operative coherent support
+923,Chrysler,3464.68,Ergonomic 24 hour matrices
+924,Mercury,2273.23,Down-sized methodical focus group
+925,Honda,1533.48,Quality-focused logistical info-mediaries
+926,Audi,7118.56,Operative value-added system engine
+927,Chrysler,5176.54,De-engineered zero defect database
+928,Chrysler,6843.65,Expanded homogeneous ability
+929,Chevrolet,6014.66,Optional contextually-based hardware
+930,Mercury,89.91,Progressive disintermediate database
+931,Audi,1266.41,Programmable explicit ability
+932,Audi,6440.2,Distributed scalable synergy
+933,Jeep,6821.1,Visionary intermediate hub
+934,Acura,7433.05,Secured empowering parallelism
+935,Honda,4521.92,Customizable logistical challenge
+936,GMC,9609.87,Profound non-volatile ability
+937,Scion,6545.09,Inverse didactic hierarchy
+938,Volkswagen,4746.58,Phased radical benchmark
+939,Buick,434.66,Upgradable user-facing alliance
+940,Mazda,2988.64,Versatile context-sensitive budgetary management
+941,GMC,7355.86,Universal exuding challenge
+942,Hyundai,4004.49,Reactive motivating Graphic Interface
+943,Toyota,8279.39,Monitored coherent framework
+944,Mercedes-Benz,325.05,Secured global definition
+945,Toyota,8740.63,Multi-tiered motivating protocol
+946,Mercury,626.14,Fully-configurable asynchronous structure
+947,Acura,9538.15,Switchable regional ability
+948,Lotus,3242.74,Configurable next generation algorithm
+949,Kia,6139.91,Automated scalable policy
+950,Lincoln,8917.98,Assimilated client-server frame
+951,Dodge,8325.09,Synergized interactive circuit
+952,Mercedes-Benz,8097.85,Focused system-worthy model
+953,Nissan,1226.25,User-friendly explicit analyzer
+954,Nissan,9881.99,Synergized content-based protocol
+955,Dodge,2332.48,Fully-configurable context-sensitive complexity
+956,Infiniti,3936.78,Business-focused national hub
+957,Toyota,1915.08,Exclusive mission-critical pricing structure
+958,Kia,7257.91,Organized full-range middleware
+959,Audi,99.72,Profit-focused asynchronous website
+960,Eagle,6311.81,Cross-platform fault-tolerant parallelism
+961,Volkswagen,9755.54,Up-sized coherent capacity
+962,Chevrolet,3341.48,Re-contextualized zero administration data-warehouse
+963,Audi,6251.62,Triple-buffered transitional monitoring
+964,Pontiac,6386.81,Assimilated responsive complexity
+965,Honda,8133.99,Multi-channelled tangible intranet
+966,Ford,8383.2,Customizable multi-tasking approach
+967,Nissan,9133.98,Managed background protocol
+968,Honda,3303.41,De-engineered scalable solution
+969,Ford,8541.42,Implemented logistical toolset
+970,BMW,990.78,Re-contextualized mission-critical info-mediaries
+971,Volkswagen,6620.33,Right-sized intermediate access
+972,Mazda,3063.98,Reverse-engineered tertiary application
+973,BMW,793.98,Digitized system-worthy firmware
+974,Mercedes-Benz,59.33,Business-focused transitional hub
+975,Oldsmobile,3957.81,Multi-channelled local frame
+976,Pontiac,7589.66,Switchable even-keeled complexity
+977,Saturn,2128.13,Multi-lateral national standardization
+978,Chevrolet,1159.99,Persistent contextually-based interface
+979,Chevrolet,9420.06,Open-architected disintermediate challenge
+980,Hyundai,8478.83,Secured encompassing software
+981,BMW,3976.93,Centralized contextually-based open system
+982,Kia,3483.41,Ergonomic optimal collaboration
+983,Ford,3863.6,Virtual maximized task-force
+984,GMC,5898.44,Expanded responsive challenge
+985,Oldsmobile,933.92,Enhanced demand-driven concept
+986,Ford,8606.16,Multi-lateral optimal task-force
+987,Mazda,9926.11,De-engineered value-added initiative
+988,Ford,7254.19,Synergized object-oriented time-frame
+989,Mercury,560.63,Synchronised intermediate capability
+990,Ford,9451.04,Mandatory 24/7 projection
+991,Infiniti,451.0,Organized analyzing leverage
+992,Suzuki,5053.15,Customizable leading edge hardware
+993,Lincoln,2788.47,Horizontal logistical challenge
+994,Mitsubishi,1526.21,Multi-tiered reciprocal workforce
+995,GMC,2219.72,Devolved neutral utilisation
+996,Pontiac,4885.2,Devolved secondary approach
+997,Suzuki,6149.72,Pre-emptive analyzing adapter
+998,Lamborghini,9340.76,Synergized grid-enabled forecast
+999,Infiniti,1037.97,Reverse-engineered systematic ability
+1000,Subaru,7043.34,Future-proofed homogeneous adapter
