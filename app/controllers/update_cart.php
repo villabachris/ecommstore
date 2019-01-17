@@ -11,7 +11,13 @@
 		unset($_SESSION['cart'][$item_id]);
 	}else{	
 	if(isset($_SESSION['cart'][$item_id])){
-		$_SESSION['cart'][$item_id] += $item_quantity;
+		$update_flag = $_POST['update_from_cart_page'];
+		if($update_flag == 0){
+			//in catalog page, add as there is an existing value
+			$_SESSION['cart'][$item_id] += $item_quantity;
+		}else{
+		$_SESSION['cart'][$item_id] = $item_quantity;
+		}
 	}else{
 		//if there is no value, assign $item_quantity as the value of $_SESSION['cart'] $item_id
 		$_SESSION['cart'][$item_id]=$item_quantity;

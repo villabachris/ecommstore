@@ -2,6 +2,7 @@
 
 <?php function get_page_content() { ?>
 <?php require_once'../controllers/connect.php' ?>
+<?php if(isset($_SESSION['user']) && $_SESSION['user']['roles_id']==2){ ?>
 	<div class="container-fluid px-0">
 		<div class="row">
 			<!-- categories -->
@@ -85,7 +86,7 @@
 								</div>
 								<div class="card-footer bg-secondary">
 									<input type="number" class="form-control text-center" value="1">
-									<button type="button" class="btn form-control add-to-cart" data-id="<?php echo $item['id']?>">+ add to cart</button>
+									<button type="button" class="btn form-control add-to-cart btn-warning" data-id="<?php echo $item['id']?>">+ add to cart</button>
 								</div>
 								<div class="card-footer bg-primary">
 										<p class="card-text text-center text-light">
@@ -101,4 +102,8 @@
 
 		</div>
 	</div>
+	<?php
+	}else{
+		header("Location:./error.php");
+	} ?>
 <?php } ?>
