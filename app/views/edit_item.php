@@ -20,7 +20,7 @@
 	 				</div>
 	 				<div class="form-group">
 	 					<label for="description"> Description: </label>
-	 					<input class="form-control" type="text" name="description" value=" <?php echo $item['description']?>">
+	 					<textarea class="form-control" rows="5" type="text" name="description" value=" <?php echo $item['description']?>"></textarea>
 	 				</div>
 	 				<div class="form-group">
 	 					<label for="price"> Price: </label>

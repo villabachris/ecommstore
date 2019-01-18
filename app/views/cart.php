@@ -68,6 +68,6 @@
  <?php }else{ ?>
 
 	<?php  
-		header("location:./error.php");
+		header("location:./login.php");
 	}?>
 <?php } ?>

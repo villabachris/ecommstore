@@ -18,6 +18,20 @@
 	 					<input type="text" class="form-control" name="addressLine1" value="<?php  echo $_SESSION['user']['address']?>">
 	 				</div>
 	 			</div>
+	 				<div class="col-sm-4">
+	 					<h4>Payment Methods</h4>
+	 					<select name="payment_mode" id="payment_mode" class="form-control">
+	 						<?php 
+	 							$payment_mode_query= "SELECT * FROM payment_modes";
+	 							$payment_modes= mysqli_query($conn, $payment_mode_query);
+
+	 							foreach ($payment_modes as $payment_mode) {
+	 								extract($payment_mode);
+	 								echo "<option value='$id'>$name</option>";
+	 							}
+	 						 ?>
+	 					</select>
+	 				</div>
 	 		</div>
 
 	 			<h4>Order Summary</h4>
@@ -92,9 +106,9 @@
 
 	<?php
 		if(isset($_SESSION['user']) && $_SESSION['user']['roles_id']==1){
-			header("Location:./error.php");
-		}else{
 			header("Location:./login.php");
+		}else{
+			header("Location:./error.php");
 		}
 		
 	}

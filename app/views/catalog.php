@@ -2,7 +2,7 @@
 
 <?php function get_page_content() { ?>
 <?php require_once'../controllers/connect.php' ?>
-<?php if(isset($_SESSION['user']) && $_SESSION['user']['roles_id']==2){ ?>
+<?php if(!isset($_SESSION['user']) || (isset($_SESSION['user'])) && $_SESSION['user']['roles_id']==2){ ?>
 	<div class="container-fluid px-0">
 		<div class="row">
 			<!-- categories -->

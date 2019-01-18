@@ -1,10 +1,11 @@
+<?php $thisPage='items'; ?>
 <?php require_once('../partials/template.php') ?>
 <?php function get_page_content(){ 
 	global $conn?>
 
 	<?php if(isset($_SESSION['user']) && $_SESSION['user']['roles_id']==1) {?>
 	
-	<div class="container">
+	<div class="container my">
 		<div class="row">
 			<a href="./add_item.php" class="btn btn-primary"> Add New Food</a>
 		</div>
@@ -41,6 +42,6 @@
 	<?php }else{ ?>
 
 	<?php  
-		header("location:./error.php");
+		header("location:./login.php");
 	}?>
 <?php } ?>
