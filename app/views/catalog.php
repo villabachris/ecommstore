@@ -3,7 +3,7 @@
 <?php function get_page_content() { ?>
 <?php require_once'../controllers/connect.php' ?>
 <?php if(!isset($_SESSION['user']) || (isset($_SESSION['user'])) && $_SESSION['user']['roles_id']==2){ ?>
-	<div class="container-fluid px-0">
+	<div class="container-fluid px-0 my-5">
 		<div class="row">
 			<!-- categories -->
 			<div class="col-sm-2">
@@ -84,7 +84,7 @@
 										<br>
 									</div>
 								</div>
-								<div class="card-footer bg-secondary">
+								<div class="card-footer bg-info">
 									<input type="number" class="form-control text-center" value="1">
 									<button type="button" class="btn form-control add-to-cart btn-warning" data-id="<?php echo $item['id']?>">+ add to cart</button>
 								</div>

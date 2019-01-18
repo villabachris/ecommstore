@@ -79,7 +79,7 @@
 										 		 	
                                           		<td><?php echo $transaction['transaction_code']?></td>
                                           		<td><?php echo $transaction['purchase_date'] ?></td>
-                                          		<td class="<?php if($transaction['status'] == "pending"){echo "text-warning";}elseif($transaction['status']=="completed"){echo "text-success";}else{ echo "text-danger";} ?>"><?php echo $transaction['status'] ?></td>
+                                          		<td><span class="badge <?php if($transaction['status'] == "pending"){echo "badge-warning";}elseif($transaction['status']=="completed"){echo "badge-success";}else{ echo "badge-danger";}?>"><?php echo $transaction['status'] ?></span></td>
                                           		<td><?php echo $transaction['payment_modes'] ?></td>
                                           	</tr>
                                         <?php  }?>
