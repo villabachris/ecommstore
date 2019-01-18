@@ -165,8 +165,8 @@ try {
 
     $redirectUrls = new RedirectUrls();
     $redirectUrls
-        ->setReturnUrl('http://localhost/ecomstore/app/controllers/pay.php?success=true')
-        ->setCancelUrl('http://localhost/ecomstore/app/controllers/pay.php?success=false');
+        ->setReturnUrl('https://ecommstore123.herokuapp.com/app/controllers/pay.php?success=true')
+        ->setCancelUrl('https://ecommstore123.herokuapp.com/app/controllers/pay.php?success=false');
 
     $payment = new Payment();
     $payment->setIntent('sale')
